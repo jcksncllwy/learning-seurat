@@ -1,0 +1,5 @@
+# Bulk data files, too big for version control
+raw_data
+
+# RStudio metadata
+.Rproj.user
